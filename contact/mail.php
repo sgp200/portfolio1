@@ -5,7 +5,7 @@ $email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$connection = mysqli_connect("localhost", "hitintec_sharmaji", "Hcvbotp123@#", "hitintec_contact_info") or die("Connection failed");
+$connection = mysqli_connect("localhost", "root", "", "") or die("Connection failed");
 $sql = "INSERT INTO user_info(Name,Email,Subject,Message) VALUES('{$name}','{$email}','{$subject}','{$message}')";
 $result = mysqli_query($connection, $sql) or die("Query failed");
 mysqli_close($connection);
