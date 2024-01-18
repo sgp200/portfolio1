@@ -1,0 +1,23 @@
+[05-Jan-2024 10:31:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
+[05-Jan-2024 10:31:50 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
+[05-Jan-2024 10:33:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
+[05-Jan-2024 10:33:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
+[05-Jan-2024 10:38:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
+[05-Jan-2024 10:38:30 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
+[06-Jan-2024 07:35:32 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
+[06-Jan-2024 07:35:32 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
+[06-Jan-2024 16:23:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/hitintec/public_html/project2/forgot_pass.php on line 97
+[15-Jan-2024 21:00:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signup.php on line 29
+[15-Jan-2024 21:00:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:00:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:00:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:01:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:02:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:03:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:04:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signup.php on line 29
+[15-Jan-2024 21:04:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:16:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[15-Jan-2024 21:16:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/hitintec/public_html/project2/connection.php:1) in /home/hitintec/public_html/project2/signin.php on line 24
+[17-Jan-2024 14:23:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/hitintec/public_html/project2/fooddonateform.php on line 8
+[17-Jan-2024 14:23:44 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/hitintec/public_html/project2/fooddonateform.php on line 9
