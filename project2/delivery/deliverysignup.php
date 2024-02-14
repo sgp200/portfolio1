@@ -61,7 +61,7 @@ if(isset($_POST['sign']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Animated Login Form </title>
+    <title>Animated Login Form | </title>
     <link rel="stylesheet" href="deliverycss.css">
   </head>
   <body>
@@ -86,7 +86,7 @@ if(isset($_POST['sign']))
           <div class="">
                            <!-- <label for="district">District:</label> -->
                            <select id="district" name="district" style="padding:10px; padding-left: 20px;">
-                          <option value="delhi">Delhi</option>
+                          <option value="bulandshahr" selected>Bulandshahr</option>
                           <!-- <option value="kancheepuram">Kancheepuram</option>
                           <option value="thiruvallur">Thiruvallur</option>
                           <option value="vellore">Vellore</option>
@@ -103,7 +103,7 @@ if(isset($_POST['sign']))
                           <option value="karur">Karur</option>
                           <option value="ariyalur">Ariyalur</option>
                           <option value="perambalur">Perambalur</option> -->
-                          <option value="bulandshahr" selected>Bulandshahr</option>
+                          <option value="delhi">Delhi</option>
                           <!-- <option value="virudhunagar">Virudhunagar</option>
                           <option value="dindigul">Dindigul</option>
                           <option value="ramanathapuram">Ramanathapuram</option>

@@ -26,8 +26,8 @@ if($_SESSION['name']==''){
     <title>Admin Dashboard Panel</title> 
     
 <?php
- $connection=mysqli_connect("localhost:3307","root","");
- $db=mysqli_select_db($connection,'demo');
+ $connection=mysqli_connect("localhost", "hitintec_sharmaji", "Hcvbotp123@#", "hitintec_db");
+ $db=mysqli_select_db($connection,'hitintec_db');
  
 
 
@@ -47,7 +47,7 @@ if($_SESSION['name']==''){
             <ul class="nav-links">
                 <li><a href="#">
                     <i class="uil uil-estate"></i>
-                    <span class="link-name">Dahsboard</span>
+                    <span class="link-name">Dashboard</span>
                 </a></li>
                 <!-- <li><a href="#">
                     <i class="uil uil-files-landscapes"></i>

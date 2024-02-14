@@ -144,7 +144,7 @@ if(isset($_POST['signup']))
   <option value="saharanpur">Saharanpur</option>
   <option value="meerut">Meerut</option>
   <option value="muzaffarnagar">Muzaffarnagar</option>
-  <option value="etawah">Etah</option>
+  <option value="etah">Etah</option>
   <option value="firozabad">Firozabad</option>
   <option value="ghaziabad">Ghaziabad</option>
   <option value="shamli">Shamli</option>
